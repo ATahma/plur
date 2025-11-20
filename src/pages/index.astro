@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts'))
+  .filter(post => !post.data.draft)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout title="canopée">
+  <div class="index-content framed">
+    <h1 id="hello-there">canopée présente <i>low pass</i></h1>
+    <p>event  description </p>
+    <p>
+      <a href="https://panr.github.io/terminal-css/">
+        <img src="https://panr.github.io/hugo-theme-terminal-demo/img/terminal-css.png" alt="Terminal.css Preview" />
+      </a>
+    </p>
+  </div>
+  
+  <div class="posts">
+    {posts.map((post) => <PostCard post={post} />)}
+  </div>
+</BaseLayout>
