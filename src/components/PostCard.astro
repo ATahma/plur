@@ -35,9 +35,6 @@ const isExternal = !!post.data.externalLink;
     {post.data.author && (
       <span class="post-author">{post.data.author}</span>
     )}
-    <link>
-      <a href="{post.data.link}">{post.data.link}</a>
-    </link>
   </div>
   {post.data.tags && post.data.tags.length > 0 && (
     <span class="post-tags">
