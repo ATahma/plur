@@ -1,9 +1,9 @@
 ---
-title: 'Salt Spring Radio of Sub-Frequncies 001 by Friday'
+title: 'Salt Spring Radio of Sub-Frequncies 001'
 description: "My current favourite tracks to use to make my subwoofer shake. comes packaged with the deep, dark frequencies"
 pubDate: 2025-10-22
 author: 'friday'
-tags: []
+tags: ['mix','soundcloud','dub']
 ---
 
 My (friday's) current favourite tracks to use to make my subwoofer shake. comes packaged with the deep, dark frequencies
