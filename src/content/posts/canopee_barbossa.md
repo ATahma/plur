@@ -2,7 +2,7 @@
 title: 'Canopee @ Barbossa - Fri Oct 17'
 description: 'It is our pleasure to announce the first night of our newest event series, “Canopée”🌿'
 pubDate: 2025-10-06
-image: 'src/img/canopee_barbossa1.jpg'
+image: '../../public/canopee_barbossa1.jpg'
 author: 'dawny'
 tags: ['events','raves','barbossa']
 ---
