@@ -2,7 +2,7 @@
 title: 'Canopee @ Barbossa - Fri Oct 17'
 description: 'It is our pleasure to announce the first night of our newest event series, “Canopée”🌿'
 pubDate: 2025-10-06
-image: '../../public/canopee_barbossa1.jpg'
+image: '/canopee_barbossa1.jpg'
 author: 'dawny'
 tags: ['events','raves','barbossa']
 ---
@@ -19,6 +19,6 @@ Also thank you <a href="https://www.instagram.com/aurellikinz/">@aurellikinz</a>
 
 
 ## Posters
-![Poster 1](/src/img/canopee_barbossa1.jpg)
+![Poster 1](/canopee_barbossa1.jpg)
 
-![Poster 2](/src/img/canopee_barbossa2.jpg)
+![Poster 2](/canopee_barbossa2.jpg)
