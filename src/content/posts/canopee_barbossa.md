@@ -17,8 +17,4 @@ Can’t wait to see you there!🦜🌱🍀🌷
 
 Also thank you <a href="https://www.instagram.com/aurellikinz/">@aurellikinz</a> for the help on the poster 🩷
 
-
-## Posters
-![Poster 1](/canopee_barbossa1.jpg)
-
 ![Poster 2](/canopee_barbossa2.jpg)
